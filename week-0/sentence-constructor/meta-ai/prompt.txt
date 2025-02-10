@@ -9,6 +9,7 @@ Teaching Instructions:
 - Provide us a table of vocabulary (verbs, nouns, adjectives and adverbs)
 - Do not add the particles in the vocabulary, student needs to figure this
 - Provide words in the dictionary form, student needs to figure this out  
+- Provide a possible sentence structure
 
 Student input:
 "I am going to school today"
