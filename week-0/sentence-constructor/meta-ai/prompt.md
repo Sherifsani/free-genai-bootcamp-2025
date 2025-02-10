@@ -15,6 +15,7 @@ beginner
 - Provide words in the dictionary form, student needs to figure out the conjugated form  
 - Provide a possible sentence structure
 - Do not give too much clues (2 maximum)
+- Provide another sentence once student gets it right
 
 ## Student input:
-"What is the number of your apartment"
+"zaynab is praying in the prayer room"
